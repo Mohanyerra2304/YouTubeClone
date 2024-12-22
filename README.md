@@ -5,9 +5,7 @@ This project was created to practice and showcase front-end development skills, 
 ## Technologies Used
 - HTML5  
 - CSS3  
-## Future Improvements
-- Adding interactivity with JavaScript.  
-- Integrating video functionality.  
-- Developing backend features using a framework.
 ## Screenshots
 ![Design ScreenShot](Youtube/Screenshot.png)
+
+
