@@ -4,8 +4,9 @@ A simple YouTube clone created using **HTML** and **CSS** to replicate the basic
 This project was created to practice and showcase front-end development skills, focusing on layout design and styling without relying on JavaScript or backend functionality.  
 ## Technologies Used
 - HTML5  
-- CSS3  
-## Screenshots
-![Design ScreenShot](Youtube/Screenshot.png)
+- CSS3
+  
+Want to check it out?<br/>
+https://mohanyerra2304.github.io/YouTubeClone/
 
 
